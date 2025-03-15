@@ -57,14 +57,14 @@ body {
 }
 
 .cidade {
-    color: #ffffff;
+    color: #12058b;
     font-size: 28px;
     font-weight: 400;
 }
 
 .temp {
     font-size: 23px;
-    color: #ffffff;
+    color: #06af1a;
     margin-top: 23px;
 }
 
@@ -75,12 +75,12 @@ body {
 }
 
 .texto-previsao {
-    color: #ffffff;
+    color: #b50480;
     margin-left: 20px;
     text-transform: capitalize;
 }
 
 .umidade {
-    color: #ffffff;
+    color: #cec409;
     margin-top: 20px;
 }
